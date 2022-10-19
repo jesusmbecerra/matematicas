@@ -19,6 +19,7 @@ print ("la lista de denominadores es ", *denominadores)
 divisor = 2
 residuos = 0
 
+#ciclo para calcular el mcm
 while True:
     #recorremos la lista para sacar uno a uno los denominadores y calcular su módulo con respecto al divisor
     for i in denominadores:
