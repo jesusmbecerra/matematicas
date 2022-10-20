@@ -1,4 +1,4 @@
-#programa que pide n numeros para calcular el mcm de ellos
+#programa que pide n numeros para calcular el mcm de ellos probando git
 #realizado por Luis Becerra
 #17/10/2022
 
